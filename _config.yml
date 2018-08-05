@@ -1,0 +1,6 @@
+title: threewisemen.ca
+email: stacey@mojility.ca
+description: Redirect site for Mojility.ca
+baseurl: ""
+url: "https://threewisemen.ca"
+markdown: kramdown
